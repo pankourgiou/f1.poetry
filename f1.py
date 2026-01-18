@@ -1,0 +1,280 @@
+f1 = """(Grand Prix Blues)
+
+The road hums low like a drop-D riff,
+black vinyl stretching under a burning sun,
+tires howl—pure blues,
+a bent note screaming at 300 clicks an hour.
+
+McLaren comes first—
+papaya lightning,
+sleek as a Les Paul through a Marshall stack.
+They don’t just race, they groove,
+precision with swagger,
+engine singing like it knows the chorus already.
+
+Ferrari—ah, Ferrari—
+that’s old soul blues, red and aching,
+a heartbreak solo from Modena,
+sometimes perfect, sometimes bleeding,
+but always played with feeling.
+
+Mercedes rolls in like prog metal—
+tight, technical, disciplined thunder,
+every bar measured, every beat exact,
+machines that think in odd time signatures.
+
+Red Bull?
+Pure adrenaline punk—
+high energy, fearless dives,
+a can cracked open mid-corner,
+chaos flirting with genius.
+
+Aston Martin slides by,
+British rock heritage,
+Green like a vinyl sleeve from the ’70s,
+smooth, confident, understated cool.
+
+Alpine, Williams, Haas—
+garage bands with heart,
+scraping for volume,
+chasing that one perfect lap
+that turns noise into legend.
+
+And the track—oh the track—
+Monaco whispers jazz,
+Spa roars like doom metal in the rain,
+Monza is a crowd chant,
+Mexico a festival drumline pounding the chest.
+
+Flags wave like lighters in the dark,
+engines fade, silence drops—
+ears still ringing, soul still racing.
+
+Because Formula 1 isn’t just speed,
+it’s rhythm, risk, rebellion—
+a never-ending jam session
+where the road listens
+and the brave
+play it loud.
+
+Australian Grand Prix — Melbourne
+
+Melbourne dawn,
+engines tune like blues licks in the smoke,
+McLaren strikes — clean, sharp —
+a bright chord unbroken,
+echoing down Albert Park,
+Ferrari growls back,
+old-school soul in every rev,
+metal rhythms of rivals,
+the race begins — rock on.
+
+Chinese Grand Prix — Shanghai
+
+Shanghai streetlights flicker like guitar frets,
+McLaren dances on asphalt strings,
+Red Bull howls in feedback,
+Ferrari croons a vintage refrain,
+on the long back straight the beat thunders,
+this city’s palette — black, bronze, fire.
+
+Japanese Grand Prix — Suzuka
+
+Suzuka’s figure-8 riffs,
+switchbacks like bending blues notes,
+McLaren whispers and then screams,
+Tifosi in prancing red —
+a heart-soaked solo under rising sun,
+precision meets passion,
+metal hearts fused to fuel.
+
+Bahrain Grand Prix — Sakhir
+
+Desert winds, hot like a wah pedal,
+McLaren light in the heat haze,
+Ferrari’s fire burns sapphire and scarlet,
+Mercedes keeps steady, like a rhythm guitar,
+while the crowd raises its voice —
+a scorching anthem of speed.
+
+Saudi Arabian Grand Prix — Jeddah
+
+Night falls, neon streaks,
+Jeddah’s curves serpentine and blue,
+McLaren leaps like a chord change,
+Red Bull growls low,
+Mercedes keeps the groove,
+Ferrari shines like a blazin’ solo —
+electric desert blues.
+
+Miami Grand Prix — Miami
+
+South Beach sun, chrome and waves,
+McLaren’s beat rides the boulevard,
+Ferrari’s warmth like an old blues tune,
+Red Bull drives with punk zeal,
+Austin’s moon yet to rise —
+but here the groove is pure FAME.
+
+Canadian Grand Prix — Montreal
+
+Montreal corners bite like grit,
+McLaren’s lines are razor-true,
+Ferrari’s charm warms cold winds,
+Mercedes hums like amp in storage,
+Spa dreams lurking ahead —
+we burn rubber and soul here first.
+
+Monaco Grand Prix — Monaco
+
+Monaco glitters like a diamond riff,
+tighter than a blues string bend,
+McLaren threads artful grace,
+Ferrari plays classic flair,
+every guardrail a whispered promise,
+the lap a delicate harmony.
+
+Spanish Grand Prix — Barcelona-Catalunya
+
+Catalunya calls like a rolling rhythm,
+McLaren spins a sweet melody,
+Ferrari chords rich and red-toned,
+Mercedes solid under every note,
+crowds clap like tambourines,
+the track’s tune pure and bold.
+
+Austrian Grand Prix — Spielberg
+
+Spielberg rises with echo riffs,
+McLaren dances light and quick,
+Ferrari flames hold steady heat,
+Red Bull reigns since this is their turf,
+metal and blues fuse in engines’ howl,
+every lap a rising rhythm.
+
+British Grand Prix — Silverstone
+
+Silverstone’s roar, galaxies of sound,
+McLaren strikes a storied chord,
+Ferrari belts vintage blues,
+Mercedes claims the regal groove,
+this is rock, old and new,
+a legacy driven hard.
+
+Belgian Grand Prix — Spa-Francorchamps
+
+Rain or shine, Spa calls deep,
+McLaren surfs those sweeping notes,
+Ferrari sings ardent lines,
+Mercedes hums like thunder low,
+this is blues at speed —
+we feel the pulse in every drop.
+
+Hungarian Grand Prix — Budapest
+
+Budapest twists like slide guitar,
+McLaren’s touch so deft and pure,
+Ferrari’s fire warms evening skies,
+Red Bull’s energy striking,
+every lap a new chord,
+blended in metal-blues grace.
+
+Dutch Grand Prix — Zandvoort
+
+Zandvoort waves crash like drum rolls,
+McLaren rides the tide of noise,
+Ferrari's Hamilton paints streaks of rose,
+Red Bull’s rush electrifies the air,
+this is seaspray and throttle,
+rock and blues as one.
+
+Italian Grand Prix — Monza
+
+Monza — temples of speed,
+McLaren’s breath quick as fretwork,
+Ferrari home, historic, bold,
+metal pulse in every chord,
+this track’s hymn is speed itself,
+fast, furious, beautiful.
+
+Spanish Grand Prix — Madrid
+
+Madrid street rhythm, guitars blazing,
+McLaren lights up the avenue,
+Ferrari’s soul deep and rich,
+Mercedes steady like bass line,
+every corner a groove,
+every crowd a chorus.
+
+Azerbaijan Grand Prix — Baku
+
+Baku’s walls echo like bass,
+McLaren tiptoes then strikes,
+Ferrari shouts joy in red,
+Red Bull snarls at twilight,
+this city’s vibe pure metal blues,
+city streets, heavy beats.
+
+Singapore Grand Prix — Singapore
+
+Night city blues in neon glow,
+McLaren glints under flaming lights,
+Ferrari tones warm like silk,
+Mercedes whispers refined precision,
+this is slow burn and high heat,
+a nocturne of speed.
+
+United States Grand Prix — Austin
+
+Austin thunder like power chords,
+McLaren stomps the rhythm hard,
+Ferrari smiles under Texas stars,
+Red Bull pounds the beat fast,
+this is rock mettle, wheels and fire,
+crowd screams like roaring amps.
+
+Mexico City Grand Prix — Mexico City
+
+Altitude high, spirits higher,
+McLaren hits sweet zone,
+Ferrari sings vibrant blues,
+Williams hums underdog soul,
+track pulses like bass drum,
+this is fiesta in every lap.
+
+São Paulo Grand Prix — Brazil
+
+São Paulo’s warmth like old vinyl,
+McLaren’s song bold and brave,
+Ferrari’s passion thick as smoke,
+Mercedes steady like rhythm section,
+crowds like choir backing—
+race turned ritual.
+
+Las Vegas Grand Prix — Las Vegas
+
+Vegas lights, guitar blaze,
+McLaren electrified on the strip,
+Ferrari’s melody rich and wild,
+Red Bull guzzles neon thunder,
+this fight tastes like free-form blues,
+all night, all throttle.
+
+Qatar Grand Prix — Lusail
+
+Lusail curves under desert stars,
+McLaren's Norris holds faithful groove,
+Ferrari’s tone deep as dunes,
+Mercedes measured like a metronome,
+this is heat and whisper,
+blues under dark Arabian sky.
+
+Abu Dhabi Grand Prix — Yas Marina
+
+Final reef, twilight shine,
+McLaren’s last chord echoes,
+Ferrari’s heart still bright,
+Red Bull’s charge relentless,
+this last lap sings truth —
+metal, blues, speed, and glory."""
+print(f1)
